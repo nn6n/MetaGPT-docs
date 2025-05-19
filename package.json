@@ -29,7 +29,7 @@
     "simple-git": "^3.20.0",
     "simple-git-hooks": "^2.9.0",
     "unocss": "^0.57.1",
-    "unplugin-auto-import": "^0.16.7",
+    "unplugin-auto-import": "^0.19.0",
     "unplugin-icons": "^0.17.3",
     "unplugin-vue-components": "^0.25.2",
     "vue-gtag": "^2.0.1",

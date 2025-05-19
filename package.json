@@ -31,7 +31,7 @@
     "unocss": "^0.57.1",
     "unplugin-auto-import": "^0.16.7",
     "unplugin-icons": "^0.17.3",
-    "unplugin-vue-components": "^0.25.2",
+    "unplugin-vue-components": "^0.28.0",
     "vue-gtag": "^2.0.1",
     "zx": "^7.2.3"
   },

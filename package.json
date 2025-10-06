@@ -23,7 +23,7 @@
     "@vueuse/core": "^10.6.1",
     "dayjs": "^1.11.10",
     "execa": "^8.0.1",
-    "lint-staged": "^15.0.2",
+    "lint-staged": "^15.2.5",
     "prettier": "^3.0.3",
     "sass": "^1.71.1",
     "simple-git": "^3.20.0",
